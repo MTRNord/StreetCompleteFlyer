@@ -17,3 +17,4 @@ It is aimed at those that do not want to ever look at the wiki or the Web App.
 - [ ] Mention where to get support (Project itself and local osm group)
 - [ ] Document how to use this repo for your town.
 - [ ] Make text less generic and focused on <TOWN>
+- [ ] Add necessary attributions
